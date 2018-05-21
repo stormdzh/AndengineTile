@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="map/mymap.tsx"/>
+ <layer name="Tile Layer 1" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgHMWjeBSP4lE8rDAABIh4KdwFAAA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC71UbQrDMAhNYN1Gm30vTQ+1G+xAvUj/7ZJTEsGJQraGPXhEk2fUSOucjr6wNSaR48b8QdFvgNuyIgJwB9xX5qvpAfMeS46u7J2AZ+DLiBmZ/fS6Jih7CXgQZ5OiwztljtbzoDuRd5ffQZvBN7Die0EL2pv9G7++Aa99NFV18S2wdpZrEFz7fhZmzz6T+4ianqku0kaxytnN4vsOjKhNSgwhlvML8Ory/yQa2kX4ydARHv6zbmm/Af7WMxXcBQAA
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgIA0oQTEtQR0j7e0AgaFqhzMS2xXJDicqmQ8zkxCmBPgSYYYSVB0+eXxuccUjh24GLnuU0NThwqA0S4w92NRRM41gs8OZBnZQOz2MAtKBIzCenZCwM1q8AwCalP2v3AUAAA==
+  </data>
+ </layer>
+</map>
